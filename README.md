@@ -1,8 +1,14 @@
-# my-ui-lib
+# @vladimir-chernov/my-ui-lib
 
 A React component library built with Vite, TypeScript, React 19, and Material UI (MUI) v7.
 It is published as an ES module package that other projects can consume.
 Storybook is used for component development and documentation.
+
+## Install
+
+```bash
+npm i @vladimir-chernov/my-ui-lib @mui/material @emotion/react @emotion/styled react react-dom
+```
 
 ## Commands
 
